@@ -1,0 +1,22 @@
+h1{
+    position: center;
+    padding-left: 35%;
+
+}
+.text-box{
+    padding: 2px;
+    color: blue;
+    font-size: large;
+
+}
+.btn-submit{
+    padding: 7px 7px;
+    
+}
+.text-submit{
+    padding-left: 35%;
+    padding-top: 5px;
+}
+.form{
+    background-color: violet;
+}
